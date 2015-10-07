@@ -1,0 +1,24 @@
+# Site settings
+title: Chris Gallagher
+email: info@chrisgallagher.ca
+url: http://127.0.0.1:4000
+description: "Chris Gallagher's Artist Portfolio"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#8C5843'
+
+# Footer settings
+footer: Chris Gallagher
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: "#contact"
+  - title: facebook
+    url: "#contact"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
